@@ -4603,6 +4603,7 @@ blockquote {
 
 .tab-link-tab-3.w--current {
   width: 25%;
+  background-color: #ee5677;
 }
 
 .text-field-4 {
@@ -5776,6 +5777,224 @@ blockquote {
   border-radius: 100%;
   background-color: transparent;
   color: #000;
+}
+
+.text-block-15 {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.image-26 {
+  width: 140px;
+  height: 140px;
+  border-radius: 100%;
+}
+
+.text-block-16 {
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 700;
+}
+
+.div-block-37 {
+  width: 140px;
+  height: 140px;
+  margin-bottom: 50px;
+}
+
+.text-block-9 {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.button-22 {
+  margin-right: 30px;
+  background-color: transparent;
+  color: #000;
+}
+
+.button-23 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  background-color: transparent;
+  color: #3898ec;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.text-block-14 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.text-block-17 {
+  width: 200px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.form-block-8 {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.div-block-38 {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.div-block-39 {
+  margin-right: 30px;
+}
+
+.checkbox-label-2 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.submit-button-7 {
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 50px;
+}
+
+.text-block-12 {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.div-block-40 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.div-block-41 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 50px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.text-block-10 {
+  color: #3898ec;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.div-block-42 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.submit-button-8 {
+  padding-right: 40px;
+  padding-left: 40px;
+  border-radius: 50px;
+}
+
+.text-block-19 {
+  padding-right: 10px;
+  padding-left: 10px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}
+
+.text-field-18 {
+  max-width: 70px;
+}
+
+.form-7 {
+  margin-top: 20px;
+}
+
+.text-block-13 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.link-block-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.text-block-20 {
+  margin-bottom: 30px;
+}
+
+.text-block-21 {
+  margin-bottom: 30px;
+  font-size: 19px;
+  line-height: 24px;
+  text-align: left;
+}
+
+.button-24 {
+  position: relative;
+  top: -70px;
+  right: -60px;
+  width: 46px;
+  height: 46px;
+  padding-right: 0px;
+  padding-left: 0px;
+  border-radius: 100%;
+  background-color: #ec383b;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.link-block-3 {
+  color: #000;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 991px) {
@@ -7095,6 +7314,9 @@ blockquote {
     position: static;
     width: 0px;
   }
+  .text-block-18 {
+    text-align: left;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8078,6 +8300,22 @@ blockquote {
     -ms-flex-item-align: center;
     -ms-grid-row-align: center;
     align-self: center;
+  }
+  .text-block-9 {
+    margin-bottom: 10px;
+  }
+  .text-block-17 {
+    margin-bottom: 10px;
+  }
+  .div-block-40 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .text-block-11 {
+    text-align: right;
   }
 }
 
